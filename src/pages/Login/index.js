@@ -15,7 +15,7 @@ export default function Login() {
     <View style={styles.container}>
           <Titulo titulo="Login" />
           <MeuInput label="E-mail"
-            placeholder = "exemplo@dashpress.com.br"/>
+            placeholder = "user@dashpress.com.br"/>
 
           <MeuInput label="Senha"
             placeholder = "password"/>
